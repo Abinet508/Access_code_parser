@@ -7,7 +7,7 @@ import argparse
 
 class LogParser:
     """
-    A class to parse the log file
+    A class to parse the log file 
     """
 
     def __init__(self, arguments) -> None:
